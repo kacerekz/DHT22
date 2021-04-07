@@ -1,6 +1,6 @@
 # Measuring temperature and humidity with a DHT22 + data measured over 2 weeks.
 
-I used an Arduino clone and <a href="https://navody.dratek.cz/navody-k-produktum/teplotni-senzor-dht11.html">this</a> tutorial to write data from the sensor to a serial port. The data is written in lines in the following format (you should be able to easily modify the Arduino tutorial code to look like this):
+I used an Arduino clone and <a href="https://navody.dratek.cz/navody-k-produktum/teplotni-senzor-dht11.html">this</a> tutorial to write data from the sensor to a serial port. The data is written in lines in the following format (you should be able to easily modify the Arduino tutorial code to make the output look like this):
 
 ![image](https://user-images.githubusercontent.com/41385344/113910662-613cbd00-97d9-11eb-8b97-38382a3b1d1e.png)
 
